@@ -15,6 +15,7 @@ dependencies = [
     "kornia>=0.7.1",
     "numpy>=1.25.0",
     "pillow>=11.3.0",
+    "pip>=25.2",
     "psutil>=7.0.0",
     "pydantic~=2.0",
     "pydantic-settings~=2.0",
